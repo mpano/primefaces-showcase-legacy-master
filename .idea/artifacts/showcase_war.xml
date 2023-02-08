@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="showcase:war">
+    <output-path>$PROJECT_DIR$/primefaces-showcase-legacy-master/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>showcase</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="showcase-6.3-SNAPSHOT.war">
+      <element id="artifact" artifact-name="showcase:war exploded" />
+    </root>
+  </artifact>
+</component>

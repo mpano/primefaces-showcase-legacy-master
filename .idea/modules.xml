@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/primefaces-showcase-legacy-master.iml" filepath="$PROJECT_DIR$/.idea/primefaces-showcase-legacy-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primefaces-showcase-legacy-master/showcase.iml" filepath="$PROJECT_DIR$/primefaces-showcase-legacy-master/showcase.iml" />
+    </modules>
+  </component>
+</project>
